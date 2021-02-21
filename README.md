@@ -18,11 +18,12 @@ Social Media Marketing.
 
 To access the navigation information respectively, select one of the following links.
 
-To access:Search Engine Optimization
+Search Engine Optimization
 
-To access:Online Reputation Management
+Online Reputation Management
 
-To access:Social Media Marketing
+Social Media Marketing
+
 
 The selected lik information will be shown as it appears in the image below.
 
@@ -30,8 +31,10 @@ The selected lik information will be shown as it appears in the image below.
 
 The site shows other information such as:
 
-Lead Generation.
-Brand Awareness.
-Cost Management.
+Lead Generation
+Brand Awareness
+Cost Management
+
+Visit our website for more information at [Horiseon](https://kzhaanbaev.github.io/horiseon-dev-env/).
 
 
